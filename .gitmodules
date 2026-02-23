@@ -1,9 +1,9 @@
 [submodule "design-flows"]
 	path = design-flows
-	url = design-flows
+	url = https://github.com/XAOSTECH/design-flows.git
 
 [submodule "themes"]
 	path = themes
-	url = themes
+	url = https://github.com/XAOSTECH/themes.git
 
 
