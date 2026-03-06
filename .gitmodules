@@ -6,4 +6,6 @@
 	path = themes
 	url = https://github.com/XAOSTECH/themes.git
 
-
+[submodule "pastel"]
+	path = pastel
+	url = https://github.com/sharkdp/pastel.git
