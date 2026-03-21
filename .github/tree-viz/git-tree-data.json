@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "repository": "design-tools",
+    "current_branch": "main",
+    "repo_url": "https://github.com/XAOSTECH/design-tools",
+    "generated": "2026-03-21T19:04:26Z",
+    "max_commits": 500
+  },
+  "commits": [
+  {
+    "sha": "152772ccfe211d9b0908c4e06ce427893b7f36b8",
+    "short": "152772c",
+    "parents": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-03-21T19:04:02Z",
+    "timestamp": 1774119842,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": "origin/chore/update-submodules-20260321-190402"
+  },
+  {
+    "sha": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52",
+    "short": "5e9aa68",
+    "parents": "b94d82997bb346c2eee728a2e7ee41a79b5f8685",
+    "author": "XAOSTECH",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-21T01:36:04+01:00",
+    "timestamp": 1774053364,
+    "subject": "chore(dc-contain): update container config",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "b94d82997bb346c2eee728a2e7ee41a79b5f8685",
+    "short": "b94d829",
+    "parents": "e449e77105d76f9b0a35ec8ca559e41510007d04",
+    "author": "XAOSTECH",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-21T01:35:45+01:00",
+    "timestamp": 1774053345,
+    "subject": "chore(dc-init): update workflows + action",
+    "refs": ""
+  },
+  {
+    "sha": "e449e77105d76f9b0a35ec8ca559e41510007d04",
+    "short": "e449e77",
+    "parents": "cc380ccab1ec4e7e680da369a7d78741c063eede",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-06T01:05:13+01:00",
+    "timestamp": 1772755513,
+    "subject": "chore: add pastel as submodule",
+    "refs": ""
+  },
+  {
+    "sha": "cc380ccab1ec4e7e680da369a7d78741c063eede",
+    "short": "cc380cc",
+    "parents": "e9718ed9da651161b8dd1e985116a2dba6988aef",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-05T21:32:59+01:00",
+    "timestamp": 1772742779,
+    "subject": "chore: update design-flows with export flag feature",
+    "refs": ""
+  },
+  {
+    "sha": "e9718ed9da651161b8dd1e985116a2dba6988aef",
+    "short": "e9718ed",
+    "parents": "aec4ec1cafbb6923e6859e4d3296c813fa4f45bd",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-05T21:30:45+01:00",
+    "timestamp": 1772742645,
+    "subject": "chore: update submodules",
+    "refs": ""
+  },
+  {
+    "sha": "aec4ec1cafbb6923e6859e4d3296c813fa4f45bd",
+    "short": "aec4ec1",
+    "parents": "cbd50cebded67add0a47ba8b7ab9ae6494cf28d7",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-05T21:19:47+01:00",
+    "timestamp": 1772741987,
+    "subject": "chore: README",
+    "refs": ""
+  },
+  {
+    "sha": "cbd50cebded67add0a47ba8b7ab9ae6494cf28d7",
+    "short": "cbd50ce",
+    "parents": "c3b69481971add961e9163290f0567f150b363ba",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-02-23T22:39:20+01:00",
+    "timestamp": 1771882760,
+    "subject": "fix(dc-modules): submodule refs",
+    "refs": ""
+  },
+  {
+    "sha": "c3b69481971add961e9163290f0567f150b363ba",
+    "short": "c3b6948",
+    "parents": "36f7d0ed3135d432ba91ccf637804d8abca73191",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-02-23T21:35:10Z",
+    "timestamp": 1771882510,
+    "subject": "chore: update CHANGELOG for v0.0.1",
+    "refs": ""
+  },
+  {
+    "sha": "36f7d0ed3135d432ba91ccf637804d8abca73191",
+    "short": "36f7d0e",
+    "parents": "",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-02-23T22:18:35+01:00",
+    "timestamp": 1771881515,
+    "subject": "init + dc-init",
+    "refs": ""
+  }
+],
+  "branches": [
+  {"name":"5e9aa68e9a51c4eed996695a1ca66f5c347f2b52 chore(dc-contain): update container config","sha":"*","current":false,"merged":false}
+],
+  "tags": [
+
+]
+}
