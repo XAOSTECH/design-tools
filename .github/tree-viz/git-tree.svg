@@ -40,27 +40,32 @@
   <!-- Branch connection lines -->
   <g id="branches">
     <line class="trunk-line" x1="600" y1="60" x2="600" y2="100"/>
-    <line class="trunk-line" x1="600" y1="100" x2="600" y2="140"/>
-    <line class="trunk-line" x1="600" y1="140" x2="600" y2="180"/>
-    <line class="trunk-line" x1="600" y1="180" x2="600" y2="220"/>
+    <path class="branch-line" d="M 600 60 C 600 92, 720 108, 720 140"/>
+    <line class="trunk-line" x1="600" y1="100" x2="600" y2="220"/>
+    <path class="branch-line" d="M 720 140 C 720 172, 600 188, 600 220"/>
     <line class="trunk-line" x1="600" y1="220" x2="600" y2="260"/>
     <line class="trunk-line" x1="600" y1="260" x2="600" y2="300"/>
     <line class="trunk-line" x1="600" y1="300" x2="600" y2="340"/>
     <line class="trunk-line" x1="600" y1="340" x2="600" y2="380"/>
     <line class="trunk-line" x1="600" y1="380" x2="600" y2="420"/>
+    <line class="trunk-line" x1="600" y1="420" x2="600" y2="460"/>
+    <line class="trunk-line" x1="600" y1="460" x2="600" y2="500"/>
+    <line class="trunk-line" x1="600" y1="500" x2="600" y2="540"/>
   </g>
   <!-- Commit nodes -->
   <g id="commits">
-    <circle class="commit-leaf" cx="600" cy="60" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>152772c: chore: update 1 submodule(s) to latest</title></circle>
-    <circle class="commit-leaf" cx="600" cy="100" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>5e9aa68: chore(dc-contain): update container config</title></circle>
-    <circle class="commit-leaf" cx="600" cy="140" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>b94d829: chore(dc-init): update workflows + action</title></circle>
-    <circle class="commit-leaf" cx="600" cy="180" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e449e77: chore: add pastel as submodule</title></circle>
-    <circle class="commit-leaf" cx="600" cy="220" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cc380cc: chore: update design-flows with export flag feature</title></circle>
-    <circle class="commit-leaf" cx="600" cy="260" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e9718ed: chore: update submodules</title></circle>
-    <circle class="commit-leaf" cx="600" cy="300" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>aec4ec1: chore: README</title></circle>
-    <circle class="commit-leaf" cx="600" cy="340" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cbd50ce: fix(dc-modules): submodule refs</title></circle>
-    <circle class="commit-leaf" cx="600" cy="380" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>c3b6948: chore: update CHANGELOG for v0.0.1</title></circle>
-    <circle class="commit-leaf" cx="600" cy="420" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>36f7d0e: init + dc-init</title></circle>
+    <circle class="commit-leaf" cx="600" cy="60" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>3a417b7: Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402</title></circle>
+    <circle class="commit-leaf" cx="600" cy="100" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>d898ec6: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="720" cy="140" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>152772c: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="600" cy="220" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>5e9aa68: chore(dc-contain): update container config</title></circle>
+    <circle class="commit-leaf" cx="600" cy="260" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>b94d829: chore(dc-init): update workflows + action</title></circle>
+    <circle class="commit-leaf" cx="600" cy="300" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e449e77: chore: add pastel as submodule</title></circle>
+    <circle class="commit-leaf" cx="600" cy="340" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cc380cc: chore: update design-flows with export flag feature</title></circle>
+    <circle class="commit-leaf" cx="600" cy="380" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e9718ed: chore: update submodules</title></circle>
+    <circle class="commit-leaf" cx="600" cy="420" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>aec4ec1: chore: README</title></circle>
+    <circle class="commit-leaf" cx="600" cy="460" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cbd50ce: fix(dc-modules): submodule refs</title></circle>
+    <circle class="commit-leaf" cx="600" cy="500" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>c3b6948: chore: update CHANGELOG for v0.0.1</title></circle>
+    <circle class="commit-leaf" cx="600" cy="540" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>36f7d0e: init + dc-init</title></circle>
   </g>
   
   <!-- Legend -->
@@ -82,7 +87,7 @@
       Repository: design-tools
     </text>
     <text x="0" y="20" class="branch-label" font-size="10" fill="#999">
-      Generated: 2026-03-21 19:04:26 UTC
+      Generated: 2026-03-21 19:06:37 UTC
     </text>
   </g>
 </svg>

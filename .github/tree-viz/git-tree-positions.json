@@ -3,10 +3,52 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-03-21T19:04:26Z",
+    "generated": "2026-03-21T19:06:37Z",
     "max_commits": 500
   },
   "commits": [
+    {
+      "sha": "3a417b7496ca6401d5695cdc13ff00192d940613",
+      "short": "3a417b7",
+      "parents": "d898ec637fc84412a227308c0514b563cefcd94b 152772ccfe211d9b0908c4e06ce427893b7f36b8",
+      "author": "xaostech[bot]",
+      "email": "260314499+xaostech[bot]@users.noreply.github.com",
+      "date": "2026-03-21T19:04:33Z",
+      "timestamp": 1774119873,
+      "subject": "Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402",
+      "refs": "HEAD -> main, origin/main",
+      "position": {
+        "x": 600,
+        "y": 60,
+        "lane": 0,
+        "radius": 10,
+        "depth": 0,
+        "is_trunk": true,
+        "is_merge": true,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "d898ec637fc84412a227308c0514b563cefcd94b",
+      "short": "d898ec6",
+      "parents": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52",
+      "author": "xaos-bot",
+      "email": "262248812+xaos-bot@users.noreply.github.com",
+      "date": "2026-03-21T19:04:26Z",
+      "timestamp": 1774119866,
+      "subject": "chore: update git tree visualisation",
+      "refs": "",
+      "position": {
+        "x": 600,
+        "y": 100,
+        "lane": 0,
+        "radius": 6,
+        "depth": 1,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
     {
       "sha": "152772ccfe211d9b0908c4e06ce427893b7f36b8",
       "short": "152772c",
@@ -18,12 +60,12 @@
       "subject": "chore: update 1 submodule(s) to latest",
       "refs": "origin/chore/update-submodules-20260321-190402",
       "position": {
-        "x": 600,
-        "y": 60,
-        "lane": 0,
+        "x": 720,
+        "y": 140,
+        "lane": 1,
         "radius": 6,
-        "depth": 0,
-        "is_trunk": true,
+        "depth": 2,
+        "is_trunk": false,
         "is_merge": false,
         "is_fork": false
       }
@@ -37,16 +79,16 @@
       "date": "2026-03-21T01:36:04+01:00",
       "timestamp": 1774053364,
       "subject": "chore(dc-contain): update container config",
-      "refs": "HEAD -> main, origin/main",
+      "refs": "",
       "position": {
         "x": 600,
-        "y": 100,
+        "y": 220,
         "lane": 0,
-        "radius": 6,
-        "depth": 1,
+        "radius": 9,
+        "depth": 3,
         "is_trunk": true,
         "is_merge": false,
-        "is_fork": false
+        "is_fork": true
       }
     },
     {
@@ -61,10 +103,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 140,
+        "y": 260,
         "lane": 0,
         "radius": 6,
-        "depth": 2,
+        "depth": 4,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -82,10 +124,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 180,
+        "y": 300,
         "lane": 0,
         "radius": 6,
-        "depth": 3,
+        "depth": 5,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -103,10 +145,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 220,
+        "y": 340,
         "lane": 0,
         "radius": 6,
-        "depth": 4,
+        "depth": 6,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -124,10 +166,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 260,
+        "y": 380,
         "lane": 0,
         "radius": 6,
-        "depth": 5,
+        "depth": 7,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -145,10 +187,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 300,
+        "y": 420,
         "lane": 0,
         "radius": 6,
-        "depth": 6,
+        "depth": 8,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -166,10 +208,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 340,
+        "y": 460,
         "lane": 0,
         "radius": 6,
-        "depth": 7,
+        "depth": 9,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -187,10 +229,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 380,
+        "y": 500,
         "lane": 0,
         "radius": 6,
-        "depth": 8,
+        "depth": 10,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -208,10 +250,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 420,
+        "y": 540,
         "lane": 0,
         "radius": 6,
-        "depth": 9,
+        "depth": 11,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -220,7 +262,7 @@
   ],
   "branches": [
     {
-      "name": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52 chore(dc-contain): update container config",
+      "name": "3a417b7496ca6401d5695cdc13ff00192d940613 Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402",
       "sha": "*",
       "current": false,
       "merged": false

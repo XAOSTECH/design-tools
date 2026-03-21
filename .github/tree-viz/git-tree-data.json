@@ -3,10 +3,32 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-03-21T19:04:26Z",
+    "generated": "2026-03-21T19:06:37Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "3a417b7496ca6401d5695cdc13ff00192d940613",
+    "short": "3a417b7",
+    "parents": "d898ec637fc84412a227308c0514b563cefcd94b 152772ccfe211d9b0908c4e06ce427893b7f36b8",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-03-21T19:04:33Z",
+    "timestamp": 1774119873,
+    "subject": "Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "d898ec637fc84412a227308c0514b563cefcd94b",
+    "short": "d898ec6",
+    "parents": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-03-21T19:04:26Z",
+    "timestamp": 1774119866,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "152772ccfe211d9b0908c4e06ce427893b7f36b8",
     "short": "152772c",
@@ -27,7 +49,7 @@
     "date": "2026-03-21T01:36:04+01:00",
     "timestamp": 1774053364,
     "subject": "chore(dc-contain): update container config",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "b94d82997bb346c2eee728a2e7ee41a79b5f8685",
@@ -119,7 +141,7 @@
   }
 ],
   "branches": [
-  {"name":"5e9aa68e9a51c4eed996695a1ca66f5c347f2b52 chore(dc-contain): update container config","sha":"*","current":false,"merged":false}
+  {"name":"3a417b7496ca6401d5695cdc13ff00192d940613 Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402","sha":"*","current":false,"merged":false}
 ],
   "tags": [
 
