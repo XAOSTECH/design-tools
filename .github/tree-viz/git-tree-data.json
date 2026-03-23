@@ -3,10 +3,21 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-03-21T20:59:50Z",
+    "generated": "2026-03-23T02:48:05Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "1082cbe9227731f0a8d498f4f7c33269b76f6073",
+    "short": "1082cbe",
+    "parents": "958dc12ea78f1a1ec146e4dbecf89dd238019b22",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-03-21T20:59:50Z",
+    "timestamp": 1774126790,
+    "subject": "chore: update git tree visualisation",
+    "refs": "HEAD -> main, origin/main"
+  },
   {
     "sha": "958dc12ea78f1a1ec146e4dbecf89dd238019b22",
     "short": "958dc12",
@@ -16,7 +27,7 @@
     "date": "2026-03-21T20:58:19Z",
     "timestamp": 1774126699,
     "subject": "chore: update CHANGELOG for v0.1.0",
-    "refs": "HEAD -> main, tag: v0.1.0, tag: latest, origin/main"
+    "refs": "tag: v0.1.0, tag: latest"
   },
   {
     "sha": "e1f6b8efb32116a51875c61ba82c6d6829025b70",
@@ -207,7 +218,7 @@
   }
 ],
   "branches": [
-  {"name":"958dc12ea78f1a1ec146e4dbecf89dd238019b22 chore: update CHANGELOG for v0.1.0","sha":"*","current":false,"merged":false}
+  {"name":"1082cbe9227731f0a8d498f4f7c33269b76f6073 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
 ],
   "tags": [
   {"name":"latest","sha":"cfc5f20a4db56c9c335bc274286264aaa59071ea"},
