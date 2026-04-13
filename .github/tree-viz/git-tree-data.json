@@ -3,10 +3,109 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-03-23T02:48:05Z",
+    "generated": "2026-04-13T03:32:27Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "64b5ad9ccca66ab89f76e40ca2893ae35c9ae8fe",
+    "short": "64b5ad9",
+    "parents": "be810bf207d768c8ffb9ba7164b8e5d565f86d66 f75b2d7f1e91d12843396aae0e8dc5bdba82961f",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-04-06T03:21:56Z",
+    "timestamp": 1775445716,
+    "subject": "Merge pull request #5 from XAOSTECH:chore/update-submodules-20260406-032120",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "be810bf207d768c8ffb9ba7164b8e5d565f86d66",
+    "short": "be810bf",
+    "parents": "192a282429089876e473424b5e09dc55fc744b55",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-06T03:21:29Z",
+    "timestamp": 1775445689,
+    "subject": "chore: update CHANGELOG for v0.1.0 (re-release)",
+    "refs": "tag: v0.1.0, tag: latest"
+  },
+  {
+    "sha": "f75b2d7f1e91d12843396aae0e8dc5bdba82961f",
+    "short": "f75b2d7",
+    "parents": "192a282429089876e473424b5e09dc55fc744b55",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-06T03:21:20Z",
+    "timestamp": 1775445680,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": ""
+  },
+  {
+    "sha": "192a282429089876e473424b5e09dc55fc744b55",
+    "short": "192a282",
+    "parents": "afc97fc5ace7fe920d87eef3afacfdf39d673966 a422b39b5aabb48c0d821097dddc163833530e04",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-04-01T02:12:44Z",
+    "timestamp": 1775009564,
+    "subject": "Merge pull request #4 from XAOSTECH:anglicise/20260401-021212",
+    "refs": ""
+  },
+  {
+    "sha": "a422b39b5aabb48c0d821097dddc163833530e04",
+    "short": "a422b39",
+    "parents": "afc97fc5ace7fe920d87eef3afacfdf39d673966",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-01T02:12:12Z",
+    "timestamp": 1775009532,
+    "subject": "chore: convert American spellings to British English",
+    "refs": ""
+  },
+  {
+    "sha": "afc97fc5ace7fe920d87eef3afacfdf39d673966",
+    "short": "afc97fc",
+    "parents": "7926d8eb296a71e043ff5258427ab5bc67337e26 40a2495167f545525bf0ad3417e64b0cc6088068",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-03-30T03:19:52Z",
+    "timestamp": 1774840792,
+    "subject": "Merge pull request #3 from XAOSTECH:chore/update-submodules-20260330-031919",
+    "refs": ""
+  },
+  {
+    "sha": "40a2495167f545525bf0ad3417e64b0cc6088068",
+    "short": "40a2495",
+    "parents": "7926d8eb296a71e043ff5258427ab5bc67337e26",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-03-30T03:19:19Z",
+    "timestamp": 1774840759,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": ""
+  },
+  {
+    "sha": "7926d8eb296a71e043ff5258427ab5bc67337e26",
+    "short": "7926d8e",
+    "parents": "c93967b173bba213adfd6cea23618ff12a4c3e39",
+    "author": "xaoscience",
+    "email": "69734795+xaoscience@users.noreply.github.com",
+    "date": "2026-03-23T17:48:57+01:00",
+    "timestamp": 1774284537,
+    "subject": "chore(dc-init): load workflows,actions",
+    "refs": ""
+  },
+  {
+    "sha": "c93967b173bba213adfd6cea23618ff12a4c3e39",
+    "short": "c93967b",
+    "parents": "1082cbe9227731f0a8d498f4f7c33269b76f6073",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-03-23T02:48:05Z",
+    "timestamp": 1774234085,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "1082cbe9227731f0a8d498f4f7c33269b76f6073",
     "short": "1082cbe",
@@ -16,7 +115,7 @@
     "date": "2026-03-21T20:59:50Z",
     "timestamp": 1774126790,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "958dc12ea78f1a1ec146e4dbecf89dd238019b22",
@@ -27,7 +126,7 @@
     "date": "2026-03-21T20:58:19Z",
     "timestamp": 1774126699,
     "subject": "chore: update CHANGELOG for v0.1.0",
-    "refs": "tag: v0.1.0, tag: latest"
+    "refs": ""
   },
   {
     "sha": "e1f6b8efb32116a51875c61ba82c6d6829025b70",
@@ -49,7 +148,7 @@
     "date": "2026-03-21T20:44:19Z",
     "timestamp": 1774125859,
     "subject": "chore: update 1 submodule(s) to latest",
-    "refs": "origin/chore/update-submodules-20260321-204419"
+    "refs": ""
   },
   {
     "sha": "54e9327ddb29272e5738a0526a35352075242fe8",
@@ -115,7 +214,7 @@
     "date": "2026-03-21T19:04:02Z",
     "timestamp": 1774119842,
     "subject": "chore: update 1 submodule(s) to latest",
-    "refs": "origin/chore/update-submodules-20260321-190402"
+    "refs": ""
   },
   {
     "sha": "5e9aa68e9a51c4eed996695a1ca66f5c347f2b52",
@@ -218,11 +317,11 @@
   }
 ],
   "branches": [
-  {"name":"1082cbe9227731f0a8d498f4f7c33269b76f6073 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"64b5ad9ccca66ab89f76e40ca2893ae35c9ae8fe Merge pull request #5 from XAOSTECH:chore/update-submodules-20260406-032120","sha":"*","current":false,"merged":false}
 ],
   "tags": [
-  {"name":"latest","sha":"cfc5f20a4db56c9c335bc274286264aaa59071ea"},
+  {"name":"latest","sha":"adef22941b455aed4b11df389da06d6bfef33e03"},
   {"name":"v0.0.1","sha":"c3b69481971add961e9163290f0567f150b363ba"},
-  {"name":"v0.1.0","sha":"1c24f116303d490ea25347a06f618a8fec8e8819"}
+  {"name":"v0.1.0","sha":"d4c4e17f6b8a05bad2c9c3c4da664f20d78c91ea"}
 ]
 }
