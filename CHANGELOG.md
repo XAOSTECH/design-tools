@@ -1,4 +1,12 @@
 
+## [0.1.1] - 2026-05-25
+
+### Changed
+- chore: update git tree visualisation
+- Merge pull request #7 from XAOSTECH:chore/update-submodules-20260511-040242
+- chore: update git tree visualisation
+- chore: update 2 submodule(s) to latest
+
 ## [0.1.0] - 2026-04-27 (re-release)
 
 ### Changed
