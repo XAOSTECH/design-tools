@@ -3,10 +3,32 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-06-01T04:52:05Z",
+    "generated": "2026-06-08T04:42:59Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "2599fa80bf8ab04cc63cfdb265661642cdba33a0",
+    "short": "2599fa8",
+    "parents": "5841d35fe0416cb87b33787cccb2a5fc4aac7bed ca135f617255ef158aec506d0269ea0a5e5fc379",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-06-01T04:52:09Z",
+    "timestamp": 1780289529,
+    "subject": "Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "5841d35fe0416cb87b33787cccb2a5fc4aac7bed",
+    "short": "5841d35",
+    "parents": "9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-06-01T04:52:05Z",
+    "timestamp": 1780289525,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "ca135f617255ef158aec506d0269ea0a5e5fc379",
     "short": "ca135f6",
@@ -16,7 +38,7 @@
     "date": "2026-06-01T04:51:39Z",
     "timestamp": 1780289499,
     "subject": "chore: update 1 submodule(s) to latest",
-    "refs": "origin/chore/update-submodules-20260601-045139"
+    "refs": ""
   },
   {
     "sha": "9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0",
@@ -27,7 +49,7 @@
     "date": "2026-05-25T04:21:13Z",
     "timestamp": 1779682873,
     "subject": "chore: update CHANGELOG for v0.1.1",
-    "refs": "HEAD -> main, tag: v0.1.1, tag: latest, origin/main"
+    "refs": "tag: v0.1.1, tag: latest"
   },
   {
     "sha": "c78eb6e03bc737b4106ea17d8adab048bf337951",
@@ -438,7 +460,7 @@
   }
 ],
   "branches": [
-  {"name":"9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0 chore: update CHANGELOG for v0.1.1","sha":"*","current":false,"merged":false}
+  {"name":"2599fa80bf8ab04cc63cfdb265661642cdba33a0 Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139","sha":"*","current":false,"merged":false}
 ],
   "tags": [
   {"name":"latest","sha":"ac0706666d576d18e96110ee0718514c0309701a"},
