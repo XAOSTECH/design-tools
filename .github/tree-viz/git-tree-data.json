@@ -3,10 +3,43 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-06-15T05:02:45Z",
+    "generated": "2026-06-29T04:40:27Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "d016273fc28eb9e4656237eefe0f334a8d05f8ba",
+    "short": "d016273",
+    "parents": "720e6cabadca96a98aff3cbd0816efb8e4c4aebc",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-06-22T05:03:08Z",
+    "timestamp": 1782104588,
+    "subject": "chore: update CHANGELOG for v0.1.1 (re-release)",
+    "refs": "HEAD -> main, tag: v0.1.1, tag: latest, origin/main"
+  },
+  {
+    "sha": "720e6cabadca96a98aff3cbd0816efb8e4c4aebc",
+    "short": "720e6ca",
+    "parents": "8ab3958d9c6b62aba52b1dc2e48989170b793993 1fe3b928e1f9af43b711fb790b1d5b2474377ba5",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-06-15T05:02:50Z",
+    "timestamp": 1781499770,
+    "subject": "Merge pull request #9 from XAOSTECH:chore/update-submodules-20260615-050216",
+    "refs": ""
+  },
+  {
+    "sha": "8ab3958d9c6b62aba52b1dc2e48989170b793993",
+    "short": "8ab3958",
+    "parents": "b0700bf833819ddf89eb40fb3e608370da7d4bd9",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-06-15T05:02:46Z",
+    "timestamp": 1781499766,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "1fe3b928e1f9af43b711fb790b1d5b2474377ba5",
     "short": "1fe3b92",
@@ -16,7 +49,7 @@
     "date": "2026-06-15T05:02:16Z",
     "timestamp": 1781499736,
     "subject": "chore: update 1 submodule(s) to latest",
-    "refs": "origin/chore/update-submodules-20260615-050216"
+    "refs": ""
   },
   {
     "sha": "b0700bf833819ddf89eb40fb3e608370da7d4bd9",
@@ -27,7 +60,7 @@
     "date": "2026-06-08T04:42:59Z",
     "timestamp": 1780893779,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "2599fa80bf8ab04cc63cfdb265661642cdba33a0",
@@ -71,7 +104,7 @@
     "date": "2026-05-25T04:21:13Z",
     "timestamp": 1779682873,
     "subject": "chore: update CHANGELOG for v0.1.1",
-    "refs": "tag: v0.1.1, tag: latest"
+    "refs": ""
   },
   {
     "sha": "c78eb6e03bc737b4106ea17d8adab048bf337951",
@@ -482,12 +515,12 @@
   }
 ],
   "branches": [
-  {"name":"b0700bf833819ddf89eb40fb3e608370da7d4bd9 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"d016273fc28eb9e4656237eefe0f334a8d05f8ba chore: update CHANGELOG for v0.1.1 (re-release)","sha":"*","current":false,"merged":false}
 ],
   "tags": [
-  {"name":"latest","sha":"ac0706666d576d18e96110ee0718514c0309701a"},
+  {"name":"latest","sha":"cb14676498d93e251ffdeb11cef7e962ce47f3ca"},
   {"name":"v0.0.1","sha":"c3b69481971add961e9163290f0567f150b363ba"},
   {"name":"v0.1.0","sha":"72c5748034013a176c3e5c29a56a95dbc8efe48b"},
-  {"name":"v0.1.1","sha":"92051c4b1cfbb7394682e315163e32c77d5cdbc0"}
+  {"name":"v0.1.1","sha":"f6dfed967d976b65621d587d0716ab81df5eb48a"}
 ]
 }
