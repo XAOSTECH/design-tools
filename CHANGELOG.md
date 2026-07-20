@@ -1,4 +1,26 @@
 
+## [0.1.1] - 2026-07-20 (re-release)
+
+### Changed
+- chore: update git tree visualisation
+- Merge pull request #10 from XAOSTECH:chore/update-submodules-20260706-040540
+- chore: update git tree visualisation
+- chore: update 1 submodule(s) to latest
+- chore: update git tree visualisation
+- chore: update CHANGELOG for v0.1.1 (re-release)
+- Merge pull request #9 from XAOSTECH:chore/update-submodules-20260615-050216
+- chore: update git tree visualisation
+- chore: update 1 submodule(s) to latest
+- chore: update git tree visualisation
+- Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139
+- chore: update git tree visualisation
+- chore: update 1 submodule(s) to latest
+- chore: update CHANGELOG for v0.1.1
+- chore: update git tree visualisation
+- Merge pull request #7 from XAOSTECH:chore/update-submodules-20260511-040242
+- chore: update git tree visualisation
+- chore: update 2 submodule(s) to latest
+
 ## [0.1.1] - 2026-06-22 (re-release)
 
 ### Changed
