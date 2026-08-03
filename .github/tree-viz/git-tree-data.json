@@ -3,10 +3,21 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-07-27T03:39:32Z",
+    "generated": "2026-08-03T03:31:31Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "69be129a9454182ed3d075d7368c40e251af66b3",
+    "short": "69be129",
+    "parents": "313031a9aba8bf242480317ba08e74f6676937ec",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-07-27T03:39:32Z",
+    "timestamp": 1785123572,
+    "subject": "chore: update git tree visualisation",
+    "refs": "HEAD -> main, origin/main"
+  },
   {
     "sha": "313031a9aba8bf242480317ba08e74f6676937ec",
     "short": "313031a",
@@ -16,7 +27,7 @@
     "date": "2026-07-20T03:39:53Z",
     "timestamp": 1784518793,
     "subject": "Merge pull request #11 from XAOSTECH:chore/update-submodules-20260720-033918",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "ead7d998c68fc22419e369fcc75bd594a756bffe",
@@ -603,7 +614,7 @@
   }
 ],
   "branches": [
-  {"name":"313031a9aba8bf242480317ba08e74f6676937ec Merge pull request #11 from XAOSTECH:chore/update-submodules-20260720-033918","sha":"*","current":false,"merged":false}
+  {"name":"69be129a9454182ed3d075d7368c40e251af66b3 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
 ],
   "tags": [
   {"name":"latest","sha":"f37ce63f5b621e5ee11ddcad754e88a8ce86a597"},
