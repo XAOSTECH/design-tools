@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" 
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="1200" height="800" 
-     viewBox="0 0 1200 800">
+     width="7600" height="5300" 
+     viewBox="0 0 7600 5300">
   <defs>
     <radialGradient id="leafGradient">
       <stop offset="0%" style="stop-color:#22c55e;stop-opacity:1" />
@@ -29,43 +29,167 @@
     </style>
   </defs>
   
-  <rect width="1200" height="800" fill="#f8fafc"/>
+  <rect width="7600" height="5300" fill="#f8fafc"/>
   <defs>
     <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse">
       <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#e2e8f0" stroke-width="0.5" opacity="0.3"/>
     </pattern>
   </defs>
-  <rect width="1200" height="800" fill="url(#grid)"/>
+  <rect width="7600" height="5300" fill="url(#grid)"/>
   
   <!-- Branch connection lines -->
   <g id="branches">
-    <line class="trunk-line" x1="600" y1="60" x2="600" y2="100"/>
-    <path class="branch-line" d="M 600 60 C 600 92, 720 108, 720 140"/>
-    <line class="trunk-line" x1="600" y1="100" x2="600" y2="220"/>
-    <path class="branch-line" d="M 720 140 C 720 172, 600 188, 600 220"/>
-    <line class="trunk-line" x1="600" y1="220" x2="600" y2="260"/>
-    <line class="trunk-line" x1="600" y1="260" x2="600" y2="300"/>
-    <line class="trunk-line" x1="600" y1="300" x2="600" y2="340"/>
-    <line class="trunk-line" x1="600" y1="340" x2="600" y2="380"/>
-    <line class="trunk-line" x1="600" y1="380" x2="600" y2="420"/>
-    <line class="trunk-line" x1="600" y1="420" x2="600" y2="460"/>
-    <line class="trunk-line" x1="600" y1="460" x2="600" y2="500"/>
-    <line class="trunk-line" x1="600" y1="500" x2="600" y2="540"/>
+    <line class="trunk-line" x1="600" y1="60" x2="600" y2="4820"/>
+    <path class="branch-line" d="M 720 100 C 720 132, 480 148, 480 180"/>
+    <path class="branch-line" d="M 480 180 C 480 244, 360 276, 360 340"/>
+    <path class="branch-line" d="M 840 260 C 840 324, 960 356, 960 420"/>
+    <path class="branch-line" d="M 360 340 C 360 404, 240 436, 240 500"/>
+    <path class="branch-line" d="M 960 420 C 960 484, 1080 516, 1080 580"/>
+    <path class="branch-line" d="M 240 500 C 240 628, 0 692, 0 820"/>
+    <path class="branch-line" d="M 1080 580 C 1080 612, 120 628, 120 660"/>
+    <path class="branch-line" d="M 120 660 C 120 692, 1200 708, 1200 740"/>
+    <path class="branch-line" d="M 1200 740 C 1200 804, 1320 836, 1320 900"/>
+    <path class="branch-line" d="M 1200 740 C 1200 836, -120 884, -120 980"/>
+    <path class="branch-line" d="M 0 820 C 0 980, 1560 1060, 1560 1220"/>
+    <path class="branch-line" d="M 1320 900 C 1320 964, 1440 996, 1440 1060"/>
+    <path class="branch-line" d="M -120 980 C -120 1012, 1440 1028, 1440 1060"/>
+    <path class="branch-line" d="M 1440 1060 C 1440 1092, -240 1108, -240 1140"/>
+    <path class="branch-line" d="M -240 1140 C -240 1204, -360 1236, -360 1300"/>
+    <path class="branch-line" d="M -240 1140 C -240 1236, 1680 1284, 1680 1380"/>
+    <path class="branch-line" d="M 1560 1220 C 1560 1412, 1920 1508, 1920 1700"/>
+    <path class="branch-line" d="M -360 1300 C -360 1364, -480 1396, -480 1460"/>
+    <path class="branch-line" d="M 1680 1380 C 1680 1412, -480 1428, -480 1460"/>
+    <path class="branch-line" d="M -480 1460 C -480 1492, 1800 1508, 1800 1540"/>
+    <path class="branch-line" d="M 1800 1540 C 1800 1572, -600 1588, -600 1620"/>
+    <path class="branch-line" d="M -600 1620 C -600 1684, -720 1716, -720 1780"/>
+    <path class="branch-line" d="M -600 1620 C -600 1716, 2040 1764, 2040 1860"/>
+    <path class="branch-line" d="M 1920 1700 C 1920 1860, -960 1940, -960 2100"/>
+    <path class="branch-line" d="M -720 1780 C -720 1844, -840 1876, -840 1940"/>
+    <path class="branch-line" d="M 2040 1860 C 2040 1892, -840 1908, -840 1940"/>
+    <path class="branch-line" d="M -840 1940 C -840 1972, 2160 1988, 2160 2020"/>
+    <path class="branch-line" d="M 2160 2020 C 2160 2084, 2280 2116, 2280 2180"/>
+    <path class="branch-line" d="M 2160 2020 C 2160 2116, -1080 2164, -1080 2260"/>
+    <path class="branch-line" d="M -960 2100 C -960 2228, -1200 2292, -1200 2420"/>
+    <path class="branch-line" d="M 2280 2180 C 2280 2244, 2400 2276, 2400 2340"/>
+    <path class="branch-line" d="M -1080 2260 C -1080 2292, 2400 2308, 2400 2340"/>
+    <path class="branch-line" d="M 2400 2340 C 2400 2404, 2520 2436, 2520 2500"/>
+    <path class="branch-line" d="M -1200 2420 C -1200 2516, 2640 2564, 2640 2660"/>
+    <path class="branch-line" d="M 2520 2500 C 2520 2532, -1320 2548, -1320 2580"/>
+    <path class="branch-line" d="M -1320 2580 C -1320 2644, -1440 2676, -1440 2740"/>
+    <path class="branch-line" d="M -1320 2580 C -1320 2676, 2760 2724, 2760 2820"/>
+    <path class="branch-line" d="M 2640 2660 C 2640 2756, -1560 2804, -1560 2900"/>
+    <path class="branch-line" d="M -1440 2740 C -1440 2836, 2880 2884, 2880 2980"/>
+    <path class="branch-line" d="M 2760 2820 C 2760 2884, 2880 2916, 2880 2980"/>
+    <path class="branch-line" d="M -1560 2900 C -1560 2996, 3000 3044, 3000 3140"/>
+    <path class="branch-line" d="M 2880 2980 C 2880 3012, -1680 3028, -1680 3060"/>
+    <path class="branch-line" d="M -1680 3060 C -1680 3124, -1800 3156, -1800 3220"/>
+    <path class="branch-line" d="M 3000 3140 C 3000 3204, 3120 3236, 3120 3300"/>
+    <path class="branch-line" d="M -1800 3220 C -1800 3316, 3240 3364, 3240 3460"/>
+    <path class="branch-line" d="M -1800 3220 C -1800 3284, -1920 3316, -1920 3380"/>
+    <path class="branch-line" d="M 3120 3300 C 3120 3428, 3360 3492, 3360 3620"/>
+    <path class="branch-line" d="M -1920 3380 C -1920 3412, 3240 3428, 3240 3460"/>
+    <path class="branch-line" d="M 3240 3460 C 3240 3492, -2040 3508, -2040 3540"/>
+    <path class="branch-line" d="M -2040 3540 C -2040 3604, -2160 3636, -2160 3700"/>
+    <path class="branch-line" d="M -2040 3540 C -2040 3636, 3480 3684, 3480 3780"/>
+    <path class="branch-line" d="M 3360 3620 C 3360 3748, 3600 3812, 3600 3940"/>
+    <path class="branch-line" d="M -2160 3700 C -2160 3764, -2280 3796, -2280 3860"/>
+    <path class="branch-line" d="M 3480 3780 C 3480 3812, -2280 3828, -2280 3860"/>
+    <path class="branch-line" d="M -2280 3860 C -2280 3988, -2520 4052, -2520 4180"/>
+    <path class="branch-line" d="M -2280 3860 C -2280 3924, -2400 3956, -2400 4020"/>
+    <path class="branch-line" d="M 3600 3940 C 3600 4004, 3720 4036, 3720 4100"/>
+    <path class="branch-line" d="M -2400 4020 C -2400 4084, -2520 4116, -2520 4180"/>
+    <path class="branch-line" d="M 3720 4100 C 3720 4164, 3840 4196, 3840 4260"/>
+    <path class="branch-line" d="M -2520 4180 C -2520 4276, 3960 4324, 3960 4420"/>
+    <path class="branch-line" d="M -2520 4180 C -2520 4244, -2640 4276, -2640 4340"/>
+    <path class="branch-line" d="M 3840 4260 C 3840 4324, 3960 4356, 3960 4420"/>
+    <path class="branch-line" d="M -2640 4340 C -2640 4372, 3960 4388, 3960 4420"/>
+    <path class="branch-line" d="M 3960 4420 C 3960 4452, -2760 4468, -2760 4500"/>
+    <path class="branch-line" d="M -2760 4500 C -2760 4532, 4080 4548, 4080 4580"/>
+    <path class="branch-line" d="M 4080 4580 C 4080 4644, 4200 4676, 4200 4740"/>
+    <path class="branch-line" d="M 4080 4580 C 4080 4612, -2880 4628, -2880 4660"/>
+    <path class="branch-line" d="M -2880 4660 C -2880 4692, 4200 4708, 4200 4740"/>
+    <path class="branch-line" d="M 4200 4740 C 4200 4772, 600 4788, 600 4820"/>
+    <line class="trunk-line" x1="600" y1="4820" x2="600" y2="4860"/>
+    <line class="trunk-line" x1="600" y1="4860" x2="600" y2="4900"/>
+    <line class="trunk-line" x1="600" y1="4900" x2="600" y2="4940"/>
+    <path class="branch-line" d="M 600 4900 C 600 4932, -3000 4948, -3000 4980"/>
+    <line class="trunk-line" x1="600" y1="4940" x2="600" y2="5060"/>
+    <path class="branch-line" d="M -3000 4980 C -3000 5012, 600 5028, 600 5060"/>
+    <line class="trunk-line" x1="600" y1="5060" x2="600" y2="5100"/>
+    <line class="trunk-line" x1="600" y1="5100" x2="600" y2="5140"/>
+    <line class="trunk-line" x1="600" y1="5140" x2="600" y2="5180"/>
   </g>
   <!-- Commit nodes -->
   <g id="commits">
-    <circle class="commit-leaf" cx="600" cy="60" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>3a417b7: Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402</title></circle>
-    <circle class="commit-leaf" cx="600" cy="100" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>d898ec6: chore: update git tree visualisation</title></circle>
-    <circle class="commit-leaf" cx="720" cy="140" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>152772c: chore: update 1 submodule(s) to latest</title></circle>
-    <circle class="commit-leaf" cx="600" cy="220" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>5e9aa68: chore(dc-contain): update container config</title></circle>
-    <circle class="commit-leaf" cx="600" cy="260" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>b94d829: chore(dc-init): update workflows + action</title></circle>
-    <circle class="commit-leaf" cx="600" cy="300" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e449e77: chore: add pastel as submodule</title></circle>
-    <circle class="commit-leaf" cx="600" cy="340" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cc380cc: chore: update design-flows with export flag feature</title></circle>
-    <circle class="commit-leaf" cx="600" cy="380" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e9718ed: chore: update submodules</title></circle>
-    <circle class="commit-leaf" cx="600" cy="420" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>aec4ec1: chore: README</title></circle>
-    <circle class="commit-leaf" cx="600" cy="460" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cbd50ce: fix(dc-modules): submodule refs</title></circle>
-    <circle class="commit-leaf" cx="600" cy="500" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>c3b6948: chore: update CHANGELOG for v0.0.1</title></circle>
-    <circle class="commit-leaf" cx="600" cy="540" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>36f7d0e: init + dc-init</title></circle>
+    <circle class="commit-leaf" cx="600" cy="60" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>fdf7266: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="720" cy="100" r="6" fill="url(#tagGradient)" stroke="#0284c7" stroke-width="1.5"><title>f307660: Merge pull request #12 from XAOSTECH:chore/update-submodules-20260817-013937</title></circle>
+    <circle class="commit-leaf" cx="480" cy="180" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>6b37cbd: chore: update CHANGELOG for v0.1.1 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="840" cy="260" r="6" fill="url(#tagGradient)" stroke="#0284c7" stroke-width="1.5"><title>3f25f9e: chore: update CHANGELOG for v0.1.1 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="360" cy="340" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>32d0a5e: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="960" cy="420" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>a1d3eb2: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="240" cy="500" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>c1c7e44: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="1080" cy="580" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>773c526: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="120" cy="660" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>69be129: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="1200" cy="740" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>313031a: Merge pull request #11 from XAOSTECH:chore/update-submodules-20260720-033918</title></circle>
+    <circle class="commit-leaf" cx="0" cy="820" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>a08413f: Merge pull request #11 from XAOSTECH:chore/update-submodules-20260720-033918</title></circle>
+    <circle class="commit-leaf" cx="1320" cy="900" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>ead7d99: chore: update CHANGELOG for v0.1.1 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="-120" cy="980" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>9b18f6c: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="1440" cy="1060" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>abdfddd: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-240" cy="1140" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>b016c1d: Merge pull request #10 from XAOSTECH:chore/update-submodules-20260706-040540</title></circle>
+    <circle class="commit-leaf" cx="1560" cy="1220" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>e490697: Merge pull request #10 from XAOSTECH:chore/update-submodules-20260706-040540</title></circle>
+    <circle class="commit-leaf" cx="-360" cy="1300" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>91f12e9: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="1680" cy="1380" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>12f259b: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="-480" cy="1460" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>af82838: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="1800" cy="1540" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>d016273: chore: update CHANGELOG for v0.1.1 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="-600" cy="1620" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>720e6ca: Merge pull request #9 from XAOSTECH:chore/update-submodules-20260615-050216</title></circle>
+    <circle class="commit-leaf" cx="1920" cy="1700" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>6227f57: Merge pull request #9 from XAOSTECH:chore/update-submodules-20260615-050216</title></circle>
+    <circle class="commit-leaf" cx="-720" cy="1780" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>8ab3958: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="2040" cy="1860" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>1fe3b92: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="-840" cy="1940" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>b0700bf: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="2160" cy="2020" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>2599fa8: Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139</title></circle>
+    <circle class="commit-leaf" cx="-960" cy="2100" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>a85a183: Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139</title></circle>
+    <circle class="commit-leaf" cx="2280" cy="2180" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>5841d35: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-1080" cy="2260" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>ca135f6: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="2400" cy="2340" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>9ba65d9: chore: update CHANGELOG for v0.1.1</title></circle>
+    <circle class="commit-leaf" cx="-1200" cy="2420" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>df22e88: chore: update CHANGELOG for v0.1.1</title></circle>
+    <circle class="commit-leaf" cx="2520" cy="2500" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>c78eb6e: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-1320" cy="2580" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>aedd827: Merge pull request #7 from XAOSTECH:chore/update-submodules-20260511-040242</title></circle>
+    <circle class="commit-leaf" cx="2640" cy="2660" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>cf62028: Merge pull request #7 from XAOSTECH:chore/update-submodules-20260511-040242</title></circle>
+    <circle class="commit-leaf" cx="-1440" cy="2740" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>801f48e: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="2760" cy="2820" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>36dabe4: chore: update 2 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="-1560" cy="2900" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>4b52f19: chore: update 2 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="2880" cy="2980" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>2d6f1a0: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-1680" cy="3060" r="6" fill="url(#tagGradient)" stroke="#0284c7" stroke-width="1.5"><title>75c4cd3: chore: update CHANGELOG for v0.1.0 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="3000" cy="3140" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>602af6f: chore: update CHANGELOG for v0.1.0 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="-1800" cy="3220" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>69eba48: Merge pull request #6 from XAOSTECH:chore/update-submodules-20260420-033219</title></circle>
+    <circle class="commit-leaf" cx="3120" cy="3300" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>244f998: Merge pull request #6 from XAOSTECH:chore/update-submodules-20260420-033219</title></circle>
+    <circle class="commit-leaf" cx="-1920" cy="3380" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>25170bd: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="3240" cy="3460" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>1fc9358: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-2040" cy="3540" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>64b5ad9: Merge pull request #5 from XAOSTECH:chore/update-submodules-20260406-032120</title></circle>
+    <circle class="commit-leaf" cx="3360" cy="3620" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>288a399: Merge pull request #5 from XAOSTECH:chore/update-submodules-20260406-032120</title></circle>
+    <circle class="commit-leaf" cx="-2160" cy="3700" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>be810bf: chore: update CHANGELOG for v0.1.0 (re-release)</title></circle>
+    <circle class="commit-leaf" cx="3480" cy="3780" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>f75b2d7: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="-2280" cy="3860" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>192a282: Merge pull request #4 from XAOSTECH:anglicise/20260401-021212</title></circle>
+    <circle class="commit-leaf" cx="3600" cy="3940" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>339d416: Merge pull request #4 from XAOSTECH:anglicise/20260401-021212</title></circle>
+    <circle class="commit-leaf" cx="-2400" cy="4020" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>a422b39: chore: convert American spellings to British English</title></circle>
+    <circle class="commit-leaf" cx="3720" cy="4100" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>a384a88: chore: convert American spellings to British English</title></circle>
+    <circle class="commit-leaf" cx="-2520" cy="4180" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>afc97fc: Merge pull request #3 from XAOSTECH:chore/update-submodules-20260330-031919</title></circle>
+    <circle class="commit-leaf" cx="3840" cy="4260" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>6271d40: Merge pull request #3 from XAOSTECH:chore/update-submodules-20260330-031919</title></circle>
+    <circle class="commit-leaf" cx="-2640" cy="4340" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>40a2495: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="3960" cy="4420" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>7926d8e: chore(dc-init): load workflows,actions</title></circle>
+    <g class="commit-leaf"><rect x="-2769" y="4491" width="18" height="18" rx="3" transform="rotate(45 -2760 4500)" fill="#475569" stroke="#cbd5e1" stroke-width="1.5"/><text x="-2760" y="4504" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#f8fafc">3</text><title>3 commits</title></g>
+    <circle class="commit-leaf" cx="4080" cy="4580" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>e1f6b8e: Merge pull request #2 from XAOSTECH:chore/update-submodules-20260321-204419</title></circle>
+    <circle class="commit-leaf" cx="-2880" cy="4660" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>f0fb49f: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="4200" cy="4740" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>54e9327: chore(dc-init): update workflows + pin design-flows</title></circle>
+    <circle class="commit-leaf" cx="600" cy="4820" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>4c66e66: chore: vsGen + pin design-flows</title></circle>
+    <circle class="commit-leaf" cx="600" cy="4860" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>f30f18c: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="600" cy="4900" r="10" fill="url(#mergeGradient)" stroke="#7c3aed" stroke-width="1.5"><title>3a417b7: Merge pull request #1 from XAOSTECH:chore/update-submodules-20260321-190402</title></circle>
+    <circle class="commit-leaf" cx="600" cy="4940" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>d898ec6: chore: update git tree visualisation</title></circle>
+    <circle class="commit-leaf" cx="-3000" cy="4980" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>152772c: chore: update 1 submodule(s) to latest</title></circle>
+    <circle class="commit-leaf" cx="600" cy="5060" r="9" fill="url(#forkGradient)" stroke="#ea580c" stroke-width="1.5"><title>5e9aa68: chore(dc-contain): update container config</title></circle>
+    <g class="commit-leaf"><rect x="591" y="5091" width="18" height="18" rx="3" transform="rotate(45 600 5100)" fill="#475569" stroke="#cbd5e1" stroke-width="1.5"/><text x="600" y="5104" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#f8fafc">6</text><title>6 commits</title></g>
+    <circle class="commit-leaf" cx="600" cy="5140" r="6" fill="url(#tagGradient)" stroke="#0284c7" stroke-width="1.5"><title>c3b6948: chore: update CHANGELOG for v0.0.1</title></circle>
+    <circle class="commit-leaf" cx="600" cy="5180" r="6" fill="url(#leafGradient)" stroke="#16a34a" stroke-width="1.5"><title>36f7d0e: init + dc-init</title></circle>
   </g>
   
   <!-- Legend -->
@@ -82,12 +206,12 @@
   </g>
   
   <!-- Repository info -->
-  <g id="info" transform="translate(20, 760)">
+  <g id="info" transform="translate(20, 5260)">
     <text x="0" y="0" class="branch-label" font-size="12" fill="#666">
       Repository: design-tools
     </text>
     <text x="0" y="20" class="branch-label" font-size="10" fill="#999">
-      Generated: 2026-03-21 19:06:37 UTC
+      Generated: 2026-03-21 19:54:15 UTC
     </text>
   </g>
 </svg>
