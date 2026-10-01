@@ -63,7 +63,7 @@
 - [Contributing](#-contributing)
 - [Roadmap](#-roadmap)
 - [Support](#-support)
-- [License](#-license)
+- [Licence](#-licence)
 - [Acknowledgements](#-acknowledgements)
 
 ---
@@ -102,7 +102,7 @@ Design workflows often require multiple tools working together. This monorepo pr
 - 🖌️ **Theme Collections** - GTK themes and system-wide appearance configurations
 - 🔧 **Modular Libraries** - Reusable Bash libraries for colour manipulation
 - 📦 **Auto-Install** - Dependencies fetched and installed automatically
-- 🇬🇧 **UK English** - Proper spelling throughout (colour, not color)
+- 🇬🇧 **UK English** - Proper spelling throughout (colour, not colour)
 
 ---
 
@@ -325,7 +325,7 @@ See the [open issues](https://github.com/XAOSTECH/design-tools/issues) for propo
 
 ---
 
-## 📄 License
+## 📄 Licence
 
 Distributed under the GPL-3.0 License. See [`LICENSE`](../LICENSE) for more information.
 
