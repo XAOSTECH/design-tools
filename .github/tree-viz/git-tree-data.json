@@ -3,10 +3,87 @@
     "repository": "design-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/design-tools",
-    "generated": "2026-09-14T04:22:06Z",
+    "generated": "2026-10-01T03:54:18Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "aaf709f983426c8d1c5a777d4c270dfbe95dacb3",
+    "short": "aaf709f",
+    "parents": "ac72bebe02650f00166420e8bd5225ce0cdff0c2",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-10-05T05:01:51Z",
+    "timestamp": 1791176511,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": "origin/chore/update-submodules-20261005-050151"
+  },
+  {
+    "sha": "ac72bebe02650f00166420e8bd5225ce0cdff0c2",
+    "short": "ac72beb",
+    "parents": "bda1b429b1cdc72686d982193365167e7ff34707 2744b5aeeff066fcae954b4c28f6cd1fc9bc2c84",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-10-01T03:54:18Z",
+    "timestamp": 1790826858,
+    "subject": "Merge pull request #15 from XAOSTECH:anglicise/20261001-035345",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "2744b5aeeff066fcae954b4c28f6cd1fc9bc2c84",
+    "short": "2744b5a",
+    "parents": "bda1b429b1cdc72686d982193365167e7ff34707",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-10-01T03:53:45Z",
+    "timestamp": 1790826825,
+    "subject": "chore: convert American spellings to British English",
+    "refs": "origin/anglicise/20261001-035345"
+  },
+  {
+    "sha": "bda1b429b1cdc72686d982193365167e7ff34707",
+    "short": "bda1b42",
+    "parents": "f03aec20bd0304874b3e405a6f642cbe9bfede12 31da0ae812ed005b16059ade56ada8c6ee9e80fc",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-09-28T04:48:04Z",
+    "timestamp": 1790570884,
+    "subject": "Merge pull request #14 from XAOSTECH:chore/update-submodules-20260928-044730",
+    "refs": ""
+  },
+  {
+    "sha": "f03aec20bd0304874b3e405a6f642cbe9bfede12",
+    "short": "f03aec2",
+    "parents": "9f507f1dbb9ca6edcd6b75f5e1c37ff131e908df",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-09-28T04:47:40Z",
+    "timestamp": 1790570860,
+    "subject": "chore: update CHANGELOG for v0.1.1 (re-release)",
+    "refs": "tag: v0.1.1, tag: latest"
+  },
+  {
+    "sha": "31da0ae812ed005b16059ade56ada8c6ee9e80fc",
+    "short": "31da0ae",
+    "parents": "9f507f1dbb9ca6edcd6b75f5e1c37ff131e908df",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-09-28T04:47:30Z",
+    "timestamp": 1790570850,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": ""
+  },
+  {
+    "sha": "9f507f1dbb9ca6edcd6b75f5e1c37ff131e908df",
+    "short": "9f507f1",
+    "parents": "f0083d053fe9ab570af0b28f805b3d4303e3d874",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-09-21T04:22:45Z",
+    "timestamp": 1789964565,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "f0083d053fe9ab570af0b28f805b3d4303e3d874",
     "short": "f0083d0",
@@ -16,7 +93,7 @@
     "date": "2026-09-14T04:22:06Z",
     "timestamp": 1789359726,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "11927361eca8028671ddd9eedacf0e582e7dab7f",
@@ -63,17 +140,6 @@
     "refs": "tag: backup/main-pre-drop-20260831T214507Z"
   },
   {
-    "sha": "3f25f9e1c867d3da9efc67ff0f44ec7fb72b62b1",
-    "short": "3f25f9e",
-    "parents": "a1d3eb2d58ed63abc5e2abaf6a47dc659821bf4c",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-08-17T01:39:46Z",
-    "timestamp": 1786930786,
-    "subject": "chore: update CHANGELOG for v0.1.1 (re-release)",
-    "refs": "tag: v0.1.1, tag: latest"
-  },
-  {
     "sha": "6b37cbddfef361047851b313a6551691d9d1ad25",
     "short": "6b37cbd",
     "parents": "32d0a5ed3a46bbfc9b8feebf0deee0780a2350d5",
@@ -96,17 +162,6 @@
     "refs": ""
   },
   {
-    "sha": "a1d3eb2d58ed63abc5e2abaf6a47dc659821bf4c",
-    "short": "a1d3eb2",
-    "parents": "773c526604c48cca3bb6e081fe1d048c4a0623b5",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-08-10T02:11:19Z",
-    "timestamp": 1786327879,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
     "sha": "c1c7e447f786337868027b48e4911a65d648143b",
     "short": "c1c7e44",
     "parents": "a08413f437f20e7c6f2eac72f75414f6f9f88548",
@@ -114,28 +169,6 @@
     "email": "262248812+xaos-bot@users.noreply.github.com",
     "date": "2026-08-10T02:11:19Z",
     "timestamp": 1786327879,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "773c526604c48cca3bb6e081fe1d048c4a0623b5",
-    "short": "773c526",
-    "parents": "69be129a9454182ed3d075d7368c40e251af66b3",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-08-03T03:31:31Z",
-    "timestamp": 1785727891,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "69be129a9454182ed3d075d7368c40e251af66b3",
-    "short": "69be129",
-    "parents": "313031a9aba8bf242480317ba08e74f6676937ec",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-27T03:39:32Z",
-    "timestamp": 1785123572,
     "subject": "chore: update git tree visualisation",
     "refs": ""
   },
@@ -151,50 +184,6 @@
     "refs": ""
   },
   {
-    "sha": "313031a9aba8bf242480317ba08e74f6676937ec",
-    "short": "313031a",
-    "parents": "ead7d998c68fc22419e369fcc75bd594a756bffe 9b18f6c0e6eddda4ed834d70760e91e490795bba",
-    "author": "xaostech[bot]",
-    "email": "260314499+xaostech[bot]@users.noreply.github.com",
-    "date": "2026-07-20T03:39:53Z",
-    "timestamp": 1784518793,
-    "subject": "Merge pull request #11 from XAOSTECH:chore/update-submodules-20260720-033918",
-    "refs": ""
-  },
-  {
-    "sha": "ead7d998c68fc22419e369fcc75bd594a756bffe",
-    "short": "ead7d99",
-    "parents": "abdfddd10828fef4301735312b23611efd0b6dfa",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-20T03:39:27Z",
-    "timestamp": 1784518767,
-    "subject": "chore: update CHANGELOG for v0.1.1 (re-release)",
-    "refs": ""
-  },
-  {
-    "sha": "9b18f6c0e6eddda4ed834d70760e91e490795bba",
-    "short": "9b18f6c",
-    "parents": "abdfddd10828fef4301735312b23611efd0b6dfa",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-20T03:39:18Z",
-    "timestamp": 1784518758,
-    "subject": "chore: update 1 submodule(s) to latest",
-    "refs": ""
-  },
-  {
-    "sha": "abdfddd10828fef4301735312b23611efd0b6dfa",
-    "short": "abdfddd",
-    "parents": "b016c1d608450729b0862bfe97128cf8ae3e0168",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-13T03:32:40Z",
-    "timestamp": 1783913560,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
     "sha": "e4906970f8a6f15b787a347eb8e2eaee9b3175d9",
     "short": "e490697",
     "parents": "6227f570fee2cebea6dcb63976b624d7d7aa5104",
@@ -203,61 +192,6 @@
     "date": "2026-07-06T04:06:15Z",
     "timestamp": 1783310775,
     "subject": "Merge pull request #10 from XAOSTECH:chore/update-submodules-20260706-040540",
-    "refs": ""
-  },
-  {
-    "sha": "b016c1d608450729b0862bfe97128cf8ae3e0168",
-    "short": "b016c1d",
-    "parents": "91f12e92eb6939b239719cb56eff00b0f093763b 12f259bf247f0fa302bda87ad8748c37af631d36",
-    "author": "xaostech[bot]",
-    "email": "260314499+xaostech[bot]@users.noreply.github.com",
-    "date": "2026-07-06T04:06:15Z",
-    "timestamp": 1783310775,
-    "subject": "Merge pull request #10 from XAOSTECH:chore/update-submodules-20260706-040540",
-    "refs": ""
-  },
-  {
-    "sha": "91f12e92eb6939b239719cb56eff00b0f093763b",
-    "short": "91f12e9",
-    "parents": "af82838272febd7fb209f7eb213d43a9253403b0",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-06T04:06:03Z",
-    "timestamp": 1783310763,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "12f259bf247f0fa302bda87ad8748c37af631d36",
-    "short": "12f259b",
-    "parents": "af82838272febd7fb209f7eb213d43a9253403b0",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-07-06T04:05:40Z",
-    "timestamp": 1783310740,
-    "subject": "chore: update 1 submodule(s) to latest",
-    "refs": ""
-  },
-  {
-    "sha": "af82838272febd7fb209f7eb213d43a9253403b0",
-    "short": "af82838",
-    "parents": "d016273fc28eb9e4656237eefe0f334a8d05f8ba",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-29T04:40:27Z",
-    "timestamp": 1782708027,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "d016273fc28eb9e4656237eefe0f334a8d05f8ba",
-    "short": "d016273",
-    "parents": "720e6cabadca96a98aff3cbd0816efb8e4c4aebc",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-22T05:03:08Z",
-    "timestamp": 1782104588,
-    "subject": "chore: update CHANGELOG for v0.1.1 (re-release)",
     "refs": ""
   },
   {
@@ -272,50 +206,6 @@
     "refs": ""
   },
   {
-    "sha": "720e6cabadca96a98aff3cbd0816efb8e4c4aebc",
-    "short": "720e6ca",
-    "parents": "8ab3958d9c6b62aba52b1dc2e48989170b793993 1fe3b928e1f9af43b711fb790b1d5b2474377ba5",
-    "author": "xaostech[bot]",
-    "email": "260314499+xaostech[bot]@users.noreply.github.com",
-    "date": "2026-06-15T05:02:50Z",
-    "timestamp": 1781499770,
-    "subject": "Merge pull request #9 from XAOSTECH:chore/update-submodules-20260615-050216",
-    "refs": ""
-  },
-  {
-    "sha": "8ab3958d9c6b62aba52b1dc2e48989170b793993",
-    "short": "8ab3958",
-    "parents": "b0700bf833819ddf89eb40fb3e608370da7d4bd9",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-15T05:02:46Z",
-    "timestamp": 1781499766,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "1fe3b928e1f9af43b711fb790b1d5b2474377ba5",
-    "short": "1fe3b92",
-    "parents": "b0700bf833819ddf89eb40fb3e608370da7d4bd9",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-15T05:02:16Z",
-    "timestamp": 1781499736,
-    "subject": "chore: update 1 submodule(s) to latest",
-    "refs": ""
-  },
-  {
-    "sha": "b0700bf833819ddf89eb40fb3e608370da7d4bd9",
-    "short": "b0700bf",
-    "parents": "2599fa80bf8ab04cc63cfdb265661642cdba33a0",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-08T04:42:59Z",
-    "timestamp": 1780893779,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
     "sha": "a85a183f05a5784545de81ceeb7099bf5c1e0cd1",
     "short": "a85a183",
     "parents": "df22e8875ebf10c24356403b797b51e7b2f7818b",
@@ -324,39 +214,6 @@
     "date": "2026-06-01T04:52:09Z",
     "timestamp": 1780289529,
     "subject": "Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139",
-    "refs": ""
-  },
-  {
-    "sha": "2599fa80bf8ab04cc63cfdb265661642cdba33a0",
-    "short": "2599fa8",
-    "parents": "5841d35fe0416cb87b33787cccb2a5fc4aac7bed ca135f617255ef158aec506d0269ea0a5e5fc379",
-    "author": "xaostech[bot]",
-    "email": "260314499+xaostech[bot]@users.noreply.github.com",
-    "date": "2026-06-01T04:52:09Z",
-    "timestamp": 1780289529,
-    "subject": "Merge pull request #8 from XAOSTECH:chore/update-submodules-20260601-045139",
-    "refs": ""
-  },
-  {
-    "sha": "5841d35fe0416cb87b33787cccb2a5fc4aac7bed",
-    "short": "5841d35",
-    "parents": "9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-01T04:52:05Z",
-    "timestamp": 1780289525,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
-    "sha": "ca135f617255ef158aec506d0269ea0a5e5fc379",
-    "short": "ca135f6",
-    "parents": "9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-06-01T04:51:39Z",
-    "timestamp": 1780289499,
-    "subject": "chore: update 1 submodule(s) to latest",
     "refs": ""
   },
   {
@@ -371,28 +228,6 @@
     "refs": ""
   },
   {
-    "sha": "9ba65d9f81bc2bea2dd5ab4d951474c1a006aea0",
-    "short": "9ba65d9",
-    "parents": "c78eb6e03bc737b4106ea17d8adab048bf337951",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-05-25T04:21:13Z",
-    "timestamp": 1779682873,
-    "subject": "chore: update CHANGELOG for v0.1.1",
-    "refs": ""
-  },
-  {
-    "sha": "c78eb6e03bc737b4106ea17d8adab048bf337951",
-    "short": "c78eb6e",
-    "parents": "aedd827f1d21794479120a7ae52234acc23e1495",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-05-18T04:12:13Z",
-    "timestamp": 1779077533,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
     "sha": "cf620281a64a698f8ef30661829aae335f49b23a",
     "short": "cf62028",
     "parents": "4b52f19d4dec64ec2340acdf3609aceaf0a32fc5",
@@ -404,28 +239,6 @@
     "refs": ""
   },
   {
-    "sha": "aedd827f1d21794479120a7ae52234acc23e1495",
-    "short": "aedd827",
-    "parents": "801f48e53a6f071ff0c818eeaad743a559d64f2a 36dabe4cdbdc215ca6ad4130de3449cfe179cf7b",
-    "author": "xaostech[bot]",
-    "email": "260314499+xaostech[bot]@users.noreply.github.com",
-    "date": "2026-05-11T04:03:20Z",
-    "timestamp": 1778472200,
-    "subject": "Merge pull request #7 from XAOSTECH:chore/update-submodules-20260511-040242",
-    "refs": ""
-  },
-  {
-    "sha": "801f48e53a6f071ff0c818eeaad743a559d64f2a",
-    "short": "801f48e",
-    "parents": "2d6f1a06f5de1bc87a43968872885c5a333c55e5",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-05-11T04:03:17Z",
-    "timestamp": 1778472197,
-    "subject": "chore: update git tree visualisation",
-    "refs": ""
-  },
-  {
     "sha": "4b52f19d4dec64ec2340acdf3609aceaf0a32fc5",
     "short": "4b52f19",
     "parents": "602af6ff226486d55c4f35947ee6099960fc5c39",
@@ -434,28 +247,6 @@
     "date": "2026-05-11T04:02:42Z",
     "timestamp": 1778472162,
     "subject": "chore: update 2 submodule(s) to latest",
-    "refs": ""
-  },
-  {
-    "sha": "36dabe4cdbdc215ca6ad4130de3449cfe179cf7b",
-    "short": "36dabe4",
-    "parents": "2d6f1a06f5de1bc87a43968872885c5a333c55e5",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-05-11T04:02:42Z",
-    "timestamp": 1778472162,
-    "subject": "chore: update 2 submodule(s) to latest",
-    "refs": ""
-  },
-  {
-    "sha": "2d6f1a06f5de1bc87a43968872885c5a333c55e5",
-    "short": "2d6f1a0",
-    "parents": "75c4cd3dcda7cd791f506270d10fc651221da1bf",
-    "author": "xaos-bot",
-    "email": "262248812+xaos-bot@users.noreply.github.com",
-    "date": "2026-05-04T03:48:18Z",
-    "timestamp": 1777866498,
-    "subject": "chore: update git tree visualisation",
     "refs": ""
   },
   {
@@ -878,13 +669,13 @@
   }
 ],
   "branches": [
-  {"name":"f0083d053fe9ab570af0b28f805b3d4303e3d874 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"ac72bebe02650f00166420e8bd5225ce0cdff0c2 Merge pull request #15 from XAOSTECH:anglicise/20261001-035345","sha":"*","current":false,"merged":false}
 ],
   "tags": [
   {"name":"backup/main-pre-drop-20260831T214507Z","sha":"f307660dd454502c8fba837539efa91a4dd34668"},
-  {"name":"latest","sha":"c79a5614cf5f3dcae7cfd9f700bfb83f28595157"},
+  {"name":"latest","sha":"034f68edb23f706b9883e6c1272996926bc1a974"},
   {"name":"v0.0.1","sha":"c3b69481971add961e9163290f0567f150b363ba"},
   {"name":"v0.1.0","sha":"72c5748034013a176c3e5c29a56a95dbc8efe48b"},
-  {"name":"v0.1.1","sha":"14476e9d3cc1eb399bc617c0be6597aadffaa64b"}
+  {"name":"v0.1.1","sha":"df15b933176006aac763426696fbf51df8af8657"}
 ]
 }
