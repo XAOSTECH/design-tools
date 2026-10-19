@@ -1,4 +1,17 @@
 
+## [0.1.1] - 2026-10-19 (re-release)
+
+### Changed
+- chore: humanise hard-wrapped comments and prose
+- chore(dc-init): update workflows,actions
+- chore: update 1 submodule(s) to latest
+- chore: convert American spellings to British English
+- chore: vsGen + pin design-flows
+- chore(dc-contain): update container config
+- chore(dc-init): update workflows + action
+- chore: add pastel as submodule
+- chore: update design-flows with export flag feature
+
 ## [0.1.1] - 2026-10-12 (re-release)
 
 ### Changed
